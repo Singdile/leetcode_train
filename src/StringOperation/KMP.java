@@ -1,8 +1,11 @@
-package 字符串;
+package StringOperation;
+
+/**
+ * 地址：https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+ */
+/
 
 public class KMP {
-
-
     public static void main(String[] args) {
         String str="abc";
         String substr="abc";
